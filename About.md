@@ -27,8 +27,6 @@ BI4NGOs features short thought pieces on how innovations, technology and applica
 - Geographic Information Systems
 - Crisis Mapping
 
-```markdown
 "Most creativity is a transition from one context into another where things are more surprising. There’s an element of surprise, and especially in science, there is often laughter that goes along with the “Aha.” Art also has this element. Our job is to remind us that there are more contexts than the one that we’re in — the one that we think is reality.”  – Alan Kay
-```
 
 **Note: the views expressed here do not represent those of the organisations and institutions I work for and have worked for.**
