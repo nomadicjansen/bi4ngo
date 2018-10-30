@@ -1,9 +1,9 @@
-##About
+##About##
 The aim of BI4NGOs is bring the strengths of Business Intelligence (BI) to the vast and complex data-set of Non-Governmental Organizations (NGOs).
 
 BI4NGOs features short thought pieces on how innovations, technology and application of the broader field of Business Intelligence are being adopted or lack thereof by Non-Governmental Organizations.
 
-###Topics include, but not exclusively:
+###Topics include, but not exclusively:###
 
 - Business Intelligence
 - Data Warehousing
