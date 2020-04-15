@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 description: The aim of BI4NGOs is bring the strengths of Business Intelligence (BI) to the vast and complex data-set of Non-Governmental Organisations (NGOs)
-logo:http://www.bi4ngo.org/wp-content/uploads/2017/05/cropped-BI4NGO-Blue-horizontal-with-Tag-small.png
 google_analytics:UA-1699062-4
